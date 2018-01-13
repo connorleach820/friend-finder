@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "A match making app using express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorleach820/friend-finder"
+  },
+  "author": "connorleach820",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorleach820/friend-finder/issues"
+  },
+  "homepage": "https://github.com/connorleach820/friend-finder",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
